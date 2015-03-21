@@ -12,7 +12,8 @@ To install AlchemyAPI, use the following. Note, "API_KEY" should be replaced wit
 	python alchemyapi.py YOUR_API_KEY
 	python example.py
 
-PyGoogle can be downloaded as individual files from this link: http://pygoogle.googlecode.com/svn/trunk/
+To install pygoogle (the relevant files are provided in Crawler/), simply run: 
+	python setup.py install
 
 Run 
 	./genData.py 
