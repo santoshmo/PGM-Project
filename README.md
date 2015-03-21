@@ -18,7 +18,7 @@ To install pygoogle (the relevant files are provided in Crawler/), simply run:
 
 Run 
 
-	./genData.py 
+	python genData.py 
 	
 Enter your search term. The resulting output should be the top N number of links from Google, named "Query0.txt", "Query1.txt",...,"QueryN.txt". These contained cleaned HTML, without tags, ads, or other nonsensical data. 
 
