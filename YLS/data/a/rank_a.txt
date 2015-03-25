@@ -1,0 +1,5 @@
+a4.txt: 3 
+a1.txt: 4 
+a3.txt: 2 
+a0.txt: 5 
+a2.txt: 1 

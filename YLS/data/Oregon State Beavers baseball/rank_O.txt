@@ -1,0 +1,5 @@
+Oregon State Beavers baseball3.txt: 4 
+Oregon State Beavers baseball2.txt: 1 
+Oregon State Beavers baseball1.txt: 2 
+Oregon State Beavers baseball0.txt: 3 
+Oregon State Beavers baseball4.txt: 5 

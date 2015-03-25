@@ -1,0 +1,5 @@
+Dr. Seuss0.txt: 2 
+Dr. Seuss1.txt: 4 
+Dr. Seuss4.txt: 1 
+Dr. Seuss3.txt: 5 
+Dr. Seuss2.txt: 3 

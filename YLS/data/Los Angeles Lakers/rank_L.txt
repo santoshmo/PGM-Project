@@ -1,0 +1,5 @@
+Los Angeles Lakers3.txt: 2 
+Los Angeles Lakers0.txt: 4 
+Los Angeles Lakers1.txt: 5 
+Los Angeles Lakers2.txt: 1 
+Los Angeles Lakers4.txt: 3 

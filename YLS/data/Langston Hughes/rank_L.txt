@@ -1,0 +1,5 @@
+Langston Hughes0.txt: 2 
+Langston Hughes4.txt: 3 
+Langston Hughes2.txt: 5 
+Langston Hughes3.txt: 1 
+Langston Hughes1.txt: 4 

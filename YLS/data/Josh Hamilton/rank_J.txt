@@ -1,0 +1,5 @@
+Josh Hamilton0.txt: 5 
+Josh Hamilton2.txt: 4 
+Josh Hamilton4.txt: 3 
+Josh Hamilton3.txt: 1 
+Josh Hamilton1.txt: 2 

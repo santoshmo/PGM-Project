@@ -1,0 +1,5 @@
+Arizona State Sun Devils2.txt: 1 
+Arizona State Sun Devils1.txt: 4 
+Arizona State Sun Devils3.txt: 3 
+Arizona State Sun Devils0.txt: 2 
+Arizona State Sun Devils4.txt: 5 

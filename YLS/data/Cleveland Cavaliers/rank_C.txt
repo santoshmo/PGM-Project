@@ -1,0 +1,5 @@
+Cleveland Cavaliers1.txt: 3 
+Cleveland Cavaliers2.txt: 4 
+Cleveland Cavaliers4.txt: 2 
+Cleveland Cavaliers3.txt: 5 
+Cleveland Cavaliers0.txt: 1 

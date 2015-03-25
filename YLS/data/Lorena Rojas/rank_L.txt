@@ -1,0 +1,5 @@
+Lorena Rojas2.txt: 4 
+Lorena Rojas3.txt: 2 
+Lorena Rojas0.txt: 5 
+Lorena Rojas1.txt: 3 
+Lorena Rojas4.txt: 1 

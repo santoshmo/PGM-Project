@@ -1,0 +1,5 @@
+LSU Tigers baseball0.txt: 3 
+LSU Tigers baseball2.txt: 2 
+LSU Tigers baseball1.txt: 1 
+LSU Tigers baseball4.txt: 4 
+LSU Tigers baseball3.txt: 5 

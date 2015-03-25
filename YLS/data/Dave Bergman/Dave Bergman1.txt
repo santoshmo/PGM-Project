@@ -1,0 +1,150 @@
+1974     21     NYY-min     A-     56     266     201     60     70     6     7     10     48     20     4     62     29     .348     .496     .597     1.093          120     2     0     0     3     4          ONE NYPL  
+1975     22     NYY-min     AA     124     492     399     76     124     15     6     11     60     15     3     83     60     .311     .425     .461     .887          184          1     3     6               WHA EL  
+1975     22     NYY     AL     7     19     17     0     0     0     0     0     0     0     0     2     4     .000     .105     .000     .105     -68     0     0     0     0     0     0     /9       
+1976     23     NYY-min     AAA     134     546     455     68     134     23     2     7     65     17     6     77     73     .295     .393     .400     .793          182          2     4     8               SYR IL  
+1977     24     NYY-min     AAA     132     561     468     88     146     29     4     16     59     29     7     90     60     .312     .422     .494     .916          231          0     2     1               SYR IL  
+1977     24     NYY     AL     5     5     4     1     1     0     0     0     1     0     0     0     0     .250     .200     .250     .450     23     1     0     0     0     1     0     /3879       
+1978     25     HOU     NL     104     228     186     15     43     5     1     0     12     2     0     39     32     .231     .361     .269     .630     86     50     5     0     1     2     9     37       
+1979     26     HOU-min     AAA     138     563     461     78     129     23     3     6     58     9     6     95     43     .280     .401     .382     .783          176          1     2     4               CHL IL  
+1979     26     HOU     NL     13     15     15     4     6     0     0     1     2     0     0     0     3     .400     .400     .600     1.000     177     9     0     0     0     0     0     /3       
+1980     27     HOU     NL     90     91     78     12     20     6     1     0     3     1     0     10     10     .256     .341     .359     .700     103     28     1     0     3     0     2     3/79       
+1981     28     TOT     NL     69     173     151     17     38     9     0     4     14     2     0     19     18     .252     .333     .391     .724     107     59     4     0     2     1     3     37       
+1981     28     HOU     NL     6     6     6     1     1     0     0     1     1     0     0     0     0     .167     .167     .667     .833     133     4     0     0     0     0     0     /3       
+1981     28     SFG     NL     63     167     145     16     37     9     0     3     13     2     0     19     18     .255     .339     .379     .719     106     55     4     0     2     1     3     37       
+1982     29     SFG     NL     100     140     121     22     33     3     1     4     14     3     0     18     11     .273     .364     .413     .778     119     50     1     0     0     1     3     3/79       
+1983     30     SFG     NL     90     167     140     16     40     4     1     6     24     2     1     24     21     .286     .394     .457     .851     139     64     5     1     2     0     2     3/7       
+1984     31     DET     AL     120     316     271     42     74     8     5     7     44     3     4     33     40     .273     .351     .417     .768     113     113     4     3     3     6     2     *3/79       
+1985     32     DET-min     AAA     11     45     39     6     9     1     0     1     6     1     1     5     6     .231     .311     .333     .644          13          0     0     1     1          NVL AA  
+1985     32     DET     AL     69     157     140     8     25     2     0     3     7     0     0     14     15     .179     .250     .257     .507     40     36     6     0     1     2     0     3/D7       
+1986     33     DET     AL     65     151     130     14     30     6     1     1     9     0     0     21     16     .231     .338     .315     .653     80     41     3     0     0     0     0     3/D79       
+1987     34     DET     AL     91     207     172     25     47     7     3     6     22     0     1     30     23     .273     .379     .453     .832     124     78     1     1     1     3     4     3/D97       
+1988     35     DET     AL     116     333     289     37     85     14     0     5     35     0     2     38     34     .294     .372     .394     .766     119     114     7     0     2     4     2     3D7       
+1989     36     DET     AL     137     436     385     38     103     13     1     7     37     1     3     44     44     .268     .345     .361     .706     102     139     5     2     4     1     3     *3/D7       
+1990     37     DET     AL     100     241     205     21     57     10     1     2     26     3     2     33     17     .278     .375     .366     .741     108     75     7     0     1     2     3     D3/7       
+1991     38     DET     AL     86     231     194     23     46     10     1     7     29     1     1     35     40     .237     .351     .407     .758     108     79     2     0     0     2     2     3D/7       
+1992     39     DET     AL     87     204     181     17     42     3     0     1     10     1     0     20     19     .232     .305     .265     .571     62     48     4     0     1     2     1     3D/7       
+17 Yrs     1349     3114     2679     312     690     100     16     54     289     19     14     380     347     .258     .348     .367     .716     102     984     55     7     21     27     36            
+162 Game Avg.     162     374     322     37     83     12     2     6     35     2     2     46     42     .258     .348     .367     .716     102     118     7     1     3     3     4            
+DET (9 yrs)     871     2276     1967     225     509     73     12     39     219     9     13     268     248     .259     .346     .368     .714     100     723     39     6     13     22     17            
+HOU (4 yrs)     213     340     285     32     70     11     2     2     18     3     0     49     45     .246     .354     .319     .673     97     91     6     0     4     2     11            
+SFG (3 yrs)     253     474     406     54     110     16     2     13     51     7     1     61     50     .271     .366     .416     .782     121     169     10     1     4     2     8            
+NYY (2 yrs)     12     24     21     1     1     0     0     0     1     0     0     2     4     .048     .125     .048     .173     -49     1     0     0     0     1     0            
+AL (11 yrs)     883     2300     1988     226     510     73     12     39     220     9     13     270     252     .257     .344     .364     .708     98     724     39     6     13     23     17            
+NL (6 yrs)     466     814     691     86     180     27     4     15     69     10     1     110     95     .260     .361     .376     .737     111     260     16     1     8     4     19            
+1975     22     NYY     AL     7     19     -4     0     0     0     -0     -3     -0.4     1     -3     -0.3     .445     .498     -0.3     0.0     -3          /9       
+1977     24     NYY     AL     5     5     -1     0     0     -1     -0     -1     -0.1     0     -1     -0.1     .472     .499     -0.1     -0.1     -0          /3879       
+1978     25     HOU     NL     104     228     -6     0     0     1     -4     -8     -0.9     7     -1     -0.2     .491     .494     -0.4     -0.3     -2          37       
+1979     26     HOU     NL     13     15     1     -0     0     -0     -0     1     0.1     0     1     0.1     .506     .500     0.2     -0.1     2          /3       
+1980     27     HOU     NL     90     91     0     0     0     3     -1     3     0.3     3     6     0.6     .503     .502     0.3     0.2     3          3/79       
+1981     28     HOU     NL     6     6     0     0     0     0     0     1     0.1     0     1     0.1     .512     .500     0.0     0.1     0          /3       
+1981     28     SFG     NL     63     167     -0     0     -0     2     -2     -1     -0.1     6     5     0.5     .498     .499     0.2     -0.1     3          37       
+1982     29     SFG     NL     100     140     2     2     1     -2     -2     1     0.2     5     6     0.6     .501     .501     0.8     -0.3     8          3/79       
+1983     30     SFG     NL     90     167     8     0     -1     0     -2     6     0.6     6     12     1.2     .507     .504     1.2     -0.2     12          3/7       
+1984     31     DET     AL     120     316     5     -0     -0     9     -4     10     1.0     11     20     2.0     .508     .506     1.1     0.6     11          *3/79       
+1985     32     DET     AL     69     157     -13     -0     -0     0     -3     -15     -1.6     5     -10     -1.1     .477     .490     -1.1     -0.2     -10     $262,500     3/D7       
+1986     33     DET     AL     65     151     -4     0     0     -0     -3     -7     -0.7     5     -2     -0.2     .489     .496     -0.2     -0.3     -1     $316,667     3/D79       
+1987     34     DET     AL     91     207     7     1     0     -2     -4     2     0.2     7     9     0.9     .502     .501     1.1     -0.6     12     $331,667     3/D97       
+1988     35     DET     AL     116     333     10     -1     -0     2     -7     4     0.4     11     15     1.5     .503     .502     1.3     -0.5     13     $360,000     3D7       
+1989     36     DET     AL     137     436     2     -2     1     -4     -7     -9     -0.9     16     6     0.6     .493     .494     1.0     -1.1     10     $437,500     *3/D7       
+1990     37     DET     AL     100     241     5     -0     -0     0     -6     -2     -0.2     9     7     0.6     .498     .499     0.7     -0.7     7     $525,000     D3/7       
+1991     38     DET     AL     86     231     2     1     0     0     -4     -0     -0.0     8     8     0.8     .499     .500     0.8     -0.4     7     $575,000     3D/7       
+1992     39     DET     AL     87     204     -9     -0     0     -0     -4     -14     -1.4     8     -6     -0.7     .483     .491     -0.7     -0.4     -6     $375,000     3D/7       
+1980     27     HOU     NL     NLCS     PHI     L     4     3     3     0     1     0     1     0     2     0     0     0     0     .333     .333     1.000     1.333     3     0     0     0     0     0  
+1984     31     DET     AL     ALCS     KCR     W     2     1     1     1     1     0     0     0     0     1     0     0     0     1.000     1.000     1.000     2.000     1     0     0     0     0     0  
+1984     31     DET     AL     WS     SDP     W     5     5     5     0     0     0     0     0     0     0     0     0     1     .000     .000     .000     .000     0     0     0     0     0     0  
+1987     34     DET     AL     ALCS     MIN     L     4     5     4     0     1     0     0     0     2     0     0     0     1     .250     .200     .250     .450     1     0     0     0     1     0  
+3 Yrs (4 Series)     15     14     13     1     3     0     1     0     4     1     0     0     2     .231     .214     .385     .599     5     0     0     0     1     0  
+2 ALCS     6     6     5     1     2     0     0     0     2     1     0     0     1     .400     .333     .400     .733     2     0     0     0     1     0  
+1 NLCS     4     3     3     0     1     0     1     0     2     0     0     0     0     .333     .333     1.000     1.333     3     0     0     0     0     0  
+1 WS     5     5     5     0     0     0     0     0     0     0     0     0     1     .000     .000     .000     .000     0     0     0     0     0     0  
+1975     NYY     AL     22     OF     6     5     3     41.0     12     10     1     1     1     .917     0     6     2.41     1.83     .979     2.37     2.37       
+1975     NYY     AL     22     RF     6     5     3     41.0     12     10     1     1     1     .917     0     6     2.41     1.83     .976     2.11     2.10       
+1977     NYY     AL     24     OF     3     0     0     7.0     3     3     0     0     0     1.000     -0     -69     3.86     1.00     .977     2.31     2.33       
+1977     NYY     AL     24     1B     2     0     0     6.0     5     5     0     0     0     1.000     -0     -60     7.50     2.50     .990     10.05     9.95       
+1977     NYY     AL     24     CF     1     0     0     4.0     3     3     0     0     0     1.000     0     0     6.75     3.00     .983     2.92     2.80       
+1977     NYY     AL     24     LF     1     0     0     1.0     0     0     0     0     0          0     0     0.00     0.00          1.80     2.10       
+1977     NYY     AL     24     RF     1     0     0     2.0     0     0     0     0     0          -0     -240     0.00     0.00          2.25     2.10       
+1978     HOU     NL     25     1B     66     21     16     269.1     298     280     16     2     26     .993     2     11     9.89     4.48     .992     9.98     9.90       
+1978     HOU     NL     25     LF     29     28     14     218.2     51     49     0     2     0     .961     -1     -6     2.02     1.69     .978     1.99     1.97       
+1978     HOU     NL     25     OF     29     28     14     218.2     50     48     0     2     0     .960     -1     -6     1.98     1.66     .980     2.31     2.29       
+1979     HOU     NL     26     1B     4     1     1     13.0     8     8     0     0     1     1.000     -0     -46     5.54     2.00     .992     9.90     9.85       
+1980     HOU     NL     27     1B     59     8     7     175.1     200     183     16     1     23     .995     2     16     10.21     3.37     .992     10.16     10.17       
+1980     HOU     NL     27     OF     5     1     0     19.0     4     4     0     0     0     1.000     0     19     1.89     0.80     .980     2.32     2.32       
+1980     HOU     NL     27     LF     3     0     0     7.0     0     0     0     0     0          -0     -17     0.00     0.00          2.06     2.07       
+1980     HOU     NL     27     RF     2     1     0     12.0     3     3     0     0     0     1.000     0     40     2.25     1.50     .977     2.03     2.05       
+1981     TOT     NL     28     1B     34     23     22     227.1     262     235     25     2     21     .992     1     7     10.29     7.65     .992     10.21     10.25       
+1981     SFG     NL     28     LF     15     11     6     91.0     22     21     0     1     0     .955     1     8     2.08     1.40     .975     2.12     2.13       
+1981     SFG     NL     28     OF     15     11     6     91.0     21     20     0     1     0     .952     1     8     1.98     1.33     .980     2.33     2.34       
+1982     SFG     NL     29     1B     69     17     11     269.2     331     308     20     3     18     .991     -1     -4     10.95     4.75     .992     10.23     10.26       
+1982     SFG     NL     29     OF     6     5     2     37.0     14     13     0     1     0     .929     -1     -23     3.16     2.17     .978     2.24     2.27       
+1982     SFG     NL     29     LF     4     3     1     19.0     8     7     0     1     0     .875     -0     -25     3.32     1.75     .972     2.08     2.08       
+1982     SFG     NL     29     RF     3     2     1     18.0     5     5     0     0     0     1.000     -0     -20     2.50     1.67     .978     2.00     2.03       
+1983     SFG     NL     30     1B     50     23     19     249.1     320     291     27     2     20     .994     -1     -5     11.48     6.36     .992     9.96     9.92       
+1983     SFG     NL     30     LF     6     4     1     31.0     9     9     0     0     0     1.000     1     50     2.61     1.50     .977     2.03     2.02       
+1983     SFG     NL     30     OF     6     4     1     31.0     8     8     0     0     0     1.000     1     50     2.32     1.33     .980     2.26     2.27       
+1984     DET     AL     31     1B     114     68     56     679.0     740     657     75     8     63     .989     10     17     9.70     6.42     .991     9.75     9.68       
+1984     DET     AL     31     OF     2     1     0     7.0     1     1     0     0     0     1.000     -0     -51     1.29     0.50     .980     2.57     2.50       
+1984     DET     AL     31     LF     1     1     0     6.0     1     1     0     0     0     1.000     -0     -40     1.50     1.00     .980     2.25     2.30       
+1984     DET     AL     31     RF     1     0     0     1.0     0     0     0     0     0          -0     -120     0.00     0.00          1.80     2.20       
+1985     DET     AL     32     1B     44     33     26     307.0     334     306     25     3     25     .991     0     2     9.70     7.52     .991     9.76     9.67       
+1985     DET     AL     32     DH     5     0                                                                                  
+1985     DET     AL     32     LF     1     0     0     1.0     0     0     0     0     0          0     0     0.00     0.00          1.80     2.20       
+1985     DET     AL     32     OF     1     0     0     1.0     0     0     0     0     0          0     0     0.00     0.00          2.70     2.40       
+1986     DET     AL     33     1B     41     28     25     277.0     288     255     29     4     30     .986     -0     -1     9.23     6.93     .991     9.42     9.33       
+1986     DET     AL     33     DH     8     0                                                                                  
+1986     DET     AL     33     OF     2     0     0     2.0     0     0     0     0     0          -0     -120     0.00     0.00          2.25     2.35       
+1986     DET     AL     33     LF     1     0     0     1.0     0     0     0     0     0          -0     -240     0.00     0.00          1.80     2.20       
+1986     DET     AL     33     RF     1     0     0     1.0     0     0     0     0     0          0     0     0.00     0.00          1.80     2.10       
+1987     DET     AL     34     1B     65     38     29     368.2     385     353     29     3     33     .992     -1     -5     9.33     5.88     .992     9.58     9.48       
+1987     DET     AL     34     DH     7     0                                                                                  
+1987     DET     AL     34     OF     7     3     1     29.0     4     4     0     0     0     1.000     -1     -37     1.24     0.57     .980     2.30     2.29       
+1987     DET     AL     34     RF     4     1     0     11.0     0     0     0     0     0          -1     -65     0.00     0.00          2.13     2.10       
+1987     DET     AL     34     LF     3     2     1     18.0     4     4     0     0     0     1.000     -0     -20     2.00     1.33     .975     2.10     2.07       
+1988     DET     AL     35     1B     64     44     32     397.2     408     367     37     4     31     .990     1     3     9.14     6.31     .992     9.57     9.49       
+1988     DET     AL     35     DH     30     23                                                                                  
+1988     DET     AL     35     LF     13     11     3     84.0     20     20     0     0     0     1.000     1     11     2.14     1.54     .977     2.26     2.24       
+1988     DET     AL     35     OF     13     11     3     84.0     19     19     0     0     0     1.000     1     11     2.04     1.46     .979     2.48     2.45       
+1989     DET     AL     36     1B     123     106     83     900.0     1004     912     85     7     88     .993     -4     -5     9.97     8.11     .993     9.79     9.69       
+1989     DET     AL     36     DH     7     3                                                                                  
+1989     DET     AL     36     LF     1     0     0     1.0     0     0     0     0     0          -0     -120     0.00     0.00          1.80     2.10       
+1989     DET     AL     36     OF     1     0     0     1.0     0     0     0     0     0          -0     -120     0.00     0.00          2.70     2.40       
+1990     DET     AL     37     DH     50     30                                                                                  
+1990     DET     AL     37     1B     27     23     17     197.0     217     203     13     1     19     .995     0     2     9.87     8.00     .992     9.63     9.53       
+1990     DET     AL     37     LF     5     0     0     5.1     0     0     0     0     0          -0     -45     0.00     0.00          2.19     2.16       
+1990     DET     AL     37     OF     5     0     0     5.1     0     0     0     0     0          -0     -45     0.00     0.00          2.36     2.36       
+1991     DET     AL     38     1B     49     42     32     379.1     394     364     29     1     42     .997     0     1     9.32     8.02     .992     9.75     9.74       
+1991     DET     AL     38     DH     13     9                                                                                  
+1991     DET     AL     38     LF     4     0     0     6.0     1     1     0     0     0     1.000     0     0     1.50     0.25     .980     2.10     2.15       
+1991     DET     AL     38     OF     4     0     0     6.0     1     1     0     0     0     1.000     0     0     1.50     0.25     .980     2.40     2.38       
+1992     DET     AL     39     1B     55     37     27     338.0     366     339     22     5     29     .986     -0     -1     9.61     6.56     .993     9.68     9.64       
+1992     DET     AL     39     DH     12     9                                                                                  
+1992     DET     AL     39     LF     1     0     0     1.0     0     0     0     0     0          0     0     0.00     0.00          2.70     2.30       
+1992     DET     AL     39     OF     1     0     0     1.0     0     0     0     0     0          0     0     0.00     0.00          2.70     2.50       
+ Leagues historically made no effort to balance team, league, and player fielding stats.  Since 1990 or so, computers have made this feasible, but prior to that there are hundreds or thousands of discrepancies each year in games played (even whether a player played a position), putouts, assists, double plays and errors. 
+Pre-1938 SB & CS data for catchers is estimated from catcher assists, games started and opposition stolen bases.
+From 1938 on SB, CS, Pickoff, & WP data for catchers and pitchers is taken from play-by-play accounts in the retrosheet files.  There are several hundred games without pbp from 1938 to 1973 and for those we may not have any data.
+CG & GS come from the retrosheet data and should be complete and pretty accurate from 1914 on.
+Innings played (like SB and CS) come from the retrosheet play-by-play data and should be considered mostly complete from 1938 to 1973 and complete from then on.
+Stats (PO,A,G, etc) for LF-CF-RF positions  (since 1914) is taken from play-by-play or box score data as available.
+Stats (PO,A,G,etc) for C,P,1B,2B,3B,SS,OF positions is taken from the official reported totals and may have been corrected at various times since their publication.
+For detailed information on which games retrosheet is missing play-by-play from 1938 to 1973, please see their most wanted games list
+For detailed information on the availability of data on this site by year, see our data coverage page
+June 8, 1971: Drafted by the Chicago Cubs  in the 12th round of the 1971 amateur draft, but did not sign. 
+June 5, 1974: Drafted by the New York Yankees  in the 2nd round of the 1974 amateur draft. 
+November 23, 1977:  the New York Yankees sent Dave Bergman to the Houston Astros to complete an earlier deal made on June 15, 1977. June 15, 1977: The New York Yankees sent a player to be named later, Mike Fischlin and Randy Niemann to the Houston Astros for Cliff Johnson. 
+April 20, 1981: Traded by the Houston Astros with Jeffrey Leonard to the San Francisco Giants for Mike Ivie. 
+March 24, 1984: Traded by the San Francisco Giants  to the Philadelphia Phillies for Alejandro Sanchez. 
+March 24, 1984: Traded by the Philadelphia Phillies with Willie Hernandez to the Detroit Tigers for Glenn Wilson and John Wockenfuss. 
+November 4, 1988: Granted Free Agency. 
+December 7, 1988: Signed as a Free Agent with the Detroit Tigers. 
+November 8, 1991: Granted Free Agency. 
+December 10, 1991: Signed as a Free Agent with the Detroit Tigers. 
+October 30, 1992: Granted Free Agency. 
+    Sum any set of rows by clicking anywhere (not red or blue) on the   first and last rows of your selection. We will then compute the   totals for the player between and including those two seasons.     
+ Default Setting for this feature:   Turn On /   Turn Off   
+Summation of season totals only works for the initial case when the table is in year order.  On a sorted table the results may get a bit goofy.  
+ HIGHLIGHTING: Adding a range or series of player's career seasons or career game numbers (like '#1972:batting_standard', '#1970-1980-sum:batting_standard', or '#1998,1999,2001,2002,sum:pitching_standard')  onto the end of a player page url causes the seasons to the highlighted and summed. After changing address bar, reload the page to see highlighting.  This will work even in links e-mailed to others. Note that for tables with multiple pages the first table is the default.  If you want to create a sum for a table other than the first one, select the rows and after the summation window appears click on "permanent link" link. 
+ Much of the play-by-play, game results, and transaction information both shown and used to create certain data sets was obtained free of charge from and is copyrighted by RetroSheet.  
+Some defensive statistics Copyright BIS, 2010-2015 .
+Some high school data is courtesy David McWater.
+Many historical player head shots courtesy of David Davis.  Many thanks to him.  All images are property the copyright holder and are displayed here for informational purposes only. 

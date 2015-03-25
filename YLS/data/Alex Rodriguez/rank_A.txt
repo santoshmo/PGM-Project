@@ -1,0 +1,5 @@
+Alex Rodriguez0.txt: 4 
+Alex Rodriguez1.txt: 5 
+Alex Rodriguez2.txt: 3 
+Alex Rodriguez3.txt: 1 
+Alex Rodriguez4.txt: 2 

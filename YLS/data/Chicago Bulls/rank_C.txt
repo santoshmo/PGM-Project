@@ -1,0 +1,5 @@
+Chicago Bulls2.txt: 1 
+Chicago Bulls1.txt: 3 
+Chicago Bulls4.txt: 4 
+Chicago Bulls0.txt: 2 
+Chicago Bulls3.txt: 5 

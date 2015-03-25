@@ -1,0 +1,11 @@
+2007     CIN     NL     26     OF     84     75     65     663.2     211     200     7     4     2     .981     5     1     9     1     2.81     2.46     .984     2.30     2.29       
+2007     CIN     NL     26     CF     71     64     54     555.2     178     168     6     4     2     .978     3     1     7     2     2.82     2.45     .987     2.71     2.70       
+2007     CIN     NL     26     RF     10     9     9     81.0     28     27     1     0     0     1.000     3     1     44     13     3.11     2.80     .981     2.18     2.17       
+2007     CIN     NL     26     LF     9     2     2     27.0     5     5     0     0     0     1.000     -1     -1     -44     -44     1.67     0.56     .984     2.00     1.99       
+2011     TEX     AL     30     LF     85     81     67     709.0     161     153     4     4     1     .975     6     4     10     7     1.99     1.85     .982     2.13     2.11     AS,MVP-22  
+2011     TEX     AL     30     CF     35     30     24     259.0     73     71     1     1     0     .986     -3     -2     -13     -9     2.50     2.06     .990     2.61     2.59     AS,MVP-22  
+Pre-1938 SB & CS data for catchers is estimated from catcher assists, games started and opposition stolen bases.
+Stats (PO,A,G, etc) for LF-CF-RF positions  (since 1914) is taken from play-by-play or box score data as available.
+    Sum any set of rows by clicking anywhere (not red or blue) on the   first and last rows of your selection. We will then compute the   totals for the player between and including those two seasons.     
+ Default Setting for this feature:   Turn On /   Turn Off   
+Summation of season totals only works for the initial case when the table is in year order.  On a sorted table the results may get a bit goofy.  

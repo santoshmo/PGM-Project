@@ -1,0 +1,5 @@
+Golden State Warriors1.txt: 1 
+Golden State Warriors2.txt: 4 
+Golden State Warriors0.txt: 2 
+Golden State Warriors3.txt: 5 
+Golden State Warriors4.txt: 3 

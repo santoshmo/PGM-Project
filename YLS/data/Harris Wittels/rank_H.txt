@@ -1,0 +1,5 @@
+Harris Wittels0.txt: 2 
+Harris Wittels2.txt: 5 
+Harris Wittels1.txt: 1 
+Harris Wittels3.txt: 4 
+Harris Wittels4.txt: 3 

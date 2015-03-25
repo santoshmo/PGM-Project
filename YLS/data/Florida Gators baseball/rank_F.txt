@@ -1,0 +1,5 @@
+Florida Gators baseball2.txt: 1 
+Florida Gators baseball1.txt: 4 
+Florida Gators baseball3.txt: 3 
+Florida Gators baseball0.txt: 2 
+Florida Gators baseball4.txt: 5 

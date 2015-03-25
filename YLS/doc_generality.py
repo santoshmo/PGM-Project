@@ -65,7 +65,8 @@ def scope_score(synset_list):
         root_synset = root_synset[0]
         depth = w.shortest_path_distance(root_synset)
         scope = scope + depth
-    scope = scope/(len(synset_list))
+    if len(synset_list) > 0:
+        scope = scope/(len(synset_list))
     scope = math.exp(-scope)
     return scope
 
@@ -75,7 +76,10 @@ def similarity_score(synset_list):
     for x in xrange(0,size):
         for y in xrange(x+1,size):
             sum_similarity = sum_similarity + wn.path_similarity(synset_list[x],synset_list[y])
-    d_similarity = sum_similarity/(size*(size-1)/2)
+    if size > 0:
+        d_similarity = sum_similarity/(size*(size-1)/2)
+    else:
+        d_similarity = sum_similarity
     return d_similarity
 
 

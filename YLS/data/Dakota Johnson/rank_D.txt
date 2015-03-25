@@ -1,0 +1,5 @@
+Dakota Johnson3.txt: 3 
+Dakota Johnson1.txt: 4 
+Dakota Johnson2.txt: 5 
+Dakota Johnson0.txt: 1 
+Dakota Johnson4.txt: 2 

@@ -1,0 +1,5 @@
+Ronda Rousey4.txt: 5 
+Ronda Rousey2.txt: 2 
+Ronda Rousey1.txt: 4 
+Ronda Rousey3.txt: 3 
+Ronda Rousey0.txt: 1 

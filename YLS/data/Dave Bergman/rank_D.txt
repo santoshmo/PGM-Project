@@ -1,0 +1,5 @@
+Dave Bergman4.txt: 3 
+Dave Bergman3.txt: 5 
+Dave Bergman1.txt: 1 
+Dave Bergman0.txt: 4 
+Dave Bergman2.txt: 2 

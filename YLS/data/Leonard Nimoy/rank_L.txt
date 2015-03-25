@@ -1,0 +1,5 @@
+Leonard Nimoy4.txt: 5 
+Leonard Nimoy0.txt: 4 
+Leonard Nimoy1.txt: 2 
+Leonard Nimoy2.txt: 3 
+Leonard Nimoy3.txt: 1 

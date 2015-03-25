@@ -1,0 +1,5 @@
+Kentucky Wildcats men's basketball0.txt: 5 
+Kentucky Wildcats men's basketball1.txt: 2 
+Kentucky Wildcats men's basketball3.txt: 1 
+Kentucky Wildcats men's basketball2.txt: 4 
+Kentucky Wildcats men's basketball4.txt: 3 

@@ -1,0 +1,5 @@
+Bruce Jenner0.txt: 3 
+Bruce Jenner4.txt: 2 
+Bruce Jenner2.txt: 1 
+Bruce Jenner1.txt: 4 
+Bruce Jenner3.txt: 5 
