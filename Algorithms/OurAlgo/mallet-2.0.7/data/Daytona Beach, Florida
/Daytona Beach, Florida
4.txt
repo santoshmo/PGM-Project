@@ -1,0 +1,627 @@
+Anna Maria Island
+Arcadia
+Atlantic Beach
+Aventura
+Bartow
+Big Pine Key
+Boca Grande
+Boca Raton
+Bonita Springs
+Boynton Beach
+Bradenton
+Bradenton Beach
+Bunnell
+Cabbage Key
+Caladesi Island State Park
+Cape Canaveral
+Cape Coral
+Cape San Blas
+Captiva Island
+Cayo Costa
+Cedar Key
+Charlotte Harbor
+Clewiston
+Cocoa
+Cocoa Beach
+Coconut Grove
+Coral Gables
+Cortez
+Cross Creek
+Crystal River
+Dade City
+Dania Beach
+Daytona Beach
+DeFuniak Springs
+DeLand
+Deerfield Beach
+Delray Beach
+Destin
+Dunedin
+Egmont Key
+Estero
+Flagler Beach
+Florida Keys
+Fort Myers
+Fort Myers Beach
+Fort Pierce
+Fort Walton Beach
+Grayton Beach
+Green Cove Springs
+Gulf Breeze
+High Springs
+Hobe Sound
+Indian Rocks Beach
+Indian Shores
+Jensen Beach
+Jupiter
+Key Biscayne
+Key Largo
+Key West
+LaBelle
+Lake Buena Vista
+Lake City
+Lake Placid
+Lake Wales
+Lake Worth
+Lakeland
+Lehigh Acres
+Lido Key
+Live Oak
+Longboat Key
+Madeira Beach
+Madison
+Marathon
+Marco Island
+Marianna
+Merritt Island
+Mexico Beach
+Miami
+Miami Beach
+Micanopy
+Milton
+Miramar Beach
+Moore Haven
+Mount Dora
+Naples
+Navarre
+New Port Richey
+New Smyrna Beach
+Nokomis
+Ocala
+Oldsmar
+Orange Park
+Orlando
+Ormond Beach
+Oviedo
+Palatka
+Palm Bay
+Palm Beach
+Palm Beach Gardens
+Palm Coast
+Palm Harbor
+Panama City
+Panama City Beach
+Perdido Key
+Perry
+Pine Island
+Plant City
+Pompano Beach
+Ponce Inlet
+Ponte Vedra Beach
+Port St. Joe
+Port St. Lucie
+Punta Gorda
+Quincy
+Safety Harbor
+Sanford
+Sanibel Island
+Santa Rosa Beach
+Seaside
+Sebring
+Siesta Key
+Singer Island
+South Beach
+South Walton
+St. Augustine
+St. Cloud
+St. George Island
+St. Pete Beach
+St. Petersburg
+Stuart
+Sunny Isles Beach
+Tampa
+Tarpon Springs
+Tavares
+Venice
+Vero Beach
+Wakulla Springs
+Weeki Wachee
+West Palm Beach
+Weston
+White Springs
+Winter Garden
+Winter Haven
+Winter Park
+Ybor City
+USA
+Canada
+Mexico
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua / Barbuda
+Arctic Ocean
+Argentina
+Armenia
+Aruba
+Ashmore/Cartier Islands
+Ascension Island
+Atlantic Ocean
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Baker Island
+Bangladesh
+Barbados
+Bassas da India
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia / Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+British Virgin Islands
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canary Islands
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Clipperton Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Coral Sea Islands
+Corsica
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Europa Island
+Falkland Islands (Islas Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern / Antarctic Lands
+Gabon
+Gambia
+Gaza Strip
+Georgia
+Germany
+Ghana
+Gibraltar
+Glorioso Islands
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island / McDonald Islands
+Holy See (Vatican City)
+Honduras
+Hong Kong
+Howland Island
+Hungary
+Iceland
+India
+Indian Ocean
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Jamaica
+Jan Mayen
+Japan
+Jarvis Island
+Jersey
+Johnston Atoll
+Jordan
+Juan de Nova Island
+Kazakstan
+Kenya
+Kingman Reef
+Kiribati
+Korea, North
+Korea, South
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesothro
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macau
+Macedonia, (Yugoslav Republic of)
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Mariana
+Marshall Islands
+Man, Isle of
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Micronesia, Federated States of
+Midway Islands
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Namibia
+Nauru
+Navassa Island
+Nepal
+Netherlands
+Netherlands Antilles
+Nevis
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pacific Ocean
+Pakistan
+Palau
+Palmyra Atoll
+Panama
+Papua New Guinea
+Paracel Islands
+Paraguay
+Peru
+Philippines
+Pitcairn Islands
+Poland
+Portugal
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+S. Africa
+S. Georgia / S. Sandwich Islands
+Saint Helena
+Saint Kitts/Nevis
+Saint Lucia
+Saint Pierre/Miquelon
+Saint Vincent/Grenadines
+Saipan
+San Marino
+Sao Tome/Principe
+Saudi Arabia
+Senegal
+Serbia/Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+Spain
+Spratly Islands
+Sri Lanka
+Sudan
+Suriname
+Svalbard
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tokelau
+Tonga
+Trinidad/Tobago
+Tromelin Island
+Tunisia
+Turkey
+Turkmenistan
+Turks/Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Wake Island
+Wallis / Futuna
+West Bank
+Western Sahara
+Western Samoa
+World
+Yemen
+Yugoslavia
+Zaire
+Zambia
+Zimbabwe
+Amelia Island
+Anna Maria Island
+Apalachicola
+Arcadia
+Atlantic Beach
+Aventura
+Bartow
+Big Pine Key
+Boca Grande
+Boca Raton
+Bonita Springs
+Boynton Beach
+Bradenton
+Bradenton Beach
+Brooksville
+Bunnell
+Cabbage Key
+Caladesi Island State Park
+Cape Canaveral
+Cape Coral
+Cape San Blas
+Captiva Island
+Carrabelle
+Cayo Costa
+Cedar Key
+Celebration
+Charlotte Harbor
+Chokoloskee
+Clearwater
+Clearwater Beach
+Clewiston
+Cocoa
+Cocoa Beach
+Coconut Grove
+Coral Gables
+Cortez
+Cross Creek
+Crystal River
+Dade City
+Dania Beach
+Daytona Beach
+DeFuniak Springs
+DeLand
+Deerfield Beach
+Delray Beach
+Destin
+Dunedin
+Dunnellon
+Eatonville
+Egmont Key
+Englewood
+Estero
+Everglades City
+Fernandina Beach
+Flagler Beach
+Florida Keys
+Fort Lauderdale
+Fort Myers
+Fort Myers Beach
+Fort Pierce
+Fort Walton Beach
+Gainesville
+Grayton Beach
+Green Cove Springs
+Gulf Breeze
+High Springs
+Hobe Sound
+Hollywood
+Homestead
+Homosassa
+Honeymoon Island
+Hutchinson Island
+Indian Rocks Beach
+Indian Shores
+Inverness
+Islamorada
+Jacksonville
+Jacksonville Beach
+Jensen Beach
+Jupiter
+Key Biscayne
+Key Largo
+Key West
+Kissimmee
+LaBelle
+Lake Buena Vista
+Lake City
+Lake Placid
+Lake Wales
+Lake Worth
+Lakeland
+Lehigh Acres
+Lido Key
+Live Oak
+Longboat Key
+Madeira Beach
+Madison
+Marathon
+Marco Island
+Marianna
+Melbourne
+Merritt Island
+Mexico Beach
+Miami
+Miami Beach
+Micanopy
+Milton
+Miramar Beach
+Monticello
+Moore Haven
+Mount Dora
+Naples
+Navarre
+New Port Richey
+New Smyrna Beach
+Nokomis
+Ocala
+Okeechobee
+Oldsmar
+Orange Park
+Orlando
+Ormond Beach
+Oviedo
+Palatka
+Palm Bay
+Palm Beach
+Palm Beach Gardens
+Palm Coast
+Palm Harbor
+Panama City
+Panama City Beach
+Pensacola
+Pensacola Beach
+Perdido Key
+Perry
+Pine Island
+Plant City
+Pompano Beach
+Ponce Inlet
+Ponte Vedra Beach
+Port Charlotte
+Port St. Joe
+Port St. Lucie
+Punta Gorda
+Quincy
+Rosemary Beach
+Safety Harbor
+Sandestin
+Sanford
+Sanibel Island
+Santa Rosa Beach
+Sarasota
+Seagrove Beach
+Seaside
+Sebastian
+Sebring
+Siesta Key
+Singer Island
+South Beach
+South Walton
+St. Augustine
+St. Cloud
+St. George Island
+St. Pete Beach
+St. Petersburg
+Stuart
+Sunny Isles Beach
+Suwannee
+Tallahassee
+Tampa
+Tarpon Springs
+Tavares
+Titusville
+Treasure Island
+Venice
+Vero Beach
+Wakulla Springs
+Weeki Wachee
+West Palm Beach
+Weston
+White Springs
+Wildwood
+Winter Garden
+Winter Haven
+Winter Park
+Ybor City
+We posed your question to Chelsea Auffarth, spokeswoman for Orlando Premium Outlets. See below for her response.
+While every day is a sale at our centers, outlets do have seasonal sales. Please see below for our 2011 sale calendar. Orlando Premium Outlets offers over 300 stores in the Orlando area which offer savings of 25 percent to 65 percent everyday with additional sales throughout the year. You can visit the Sales & Events page of our website to view our current in-store promotions.
+ Its no secret that shopping is a top activity for travelers and vacationers. While kids of all ages enjoy the thrills of Orlandos theme parks, savvy shoppers enjoy the thrill of finding the finest designer brands at savings at the areas two incredible outlet centers  one serving the area near Walt Disney World and the other serving the area near Universal Orlando Resort.
+ Located only one mile from Walt Disney World on Interstate 4 at exit 68 on Vineland Avenue, Orlando Premium Outlets - Vineland Avenue features 150 designer and name-brand outlet stores. This beautiful, Mediterranean inspired village offers area visitors a chance to purchase some of the finest designer brands at great savings. The impressive list of stores includes A|X Armani Exchange, Barneys New York Outlet, BCBG Max Azria, Brooks Brothers, Burberry, Calvin Klein, Coach, Cole Haan, Diesel, Dior, Fendi, Giorgio Armani, Hugo Boss, J.Crew, Kenneth Cole, Lacoste, LeSportsac, Lucky Brand, Marni, MaxMara, Michael Kors, Nautica, Polo Ralph Lauren, Salvatore Ferragamo, Tag Heuer, Tods, Tommy Hilfiger, Tory Burch, Wolford, Zegna Outlet and much more.
+ In addition to these two high end outlet centers, shoppers should save time to stop by a third area center, located just south of Orlando Premium Outlets - International Drive. Orlando Marketplace features 40 designer and name-brand outlet stores that have impressive savings on such brands as Calvin Klein, Coldwater Creek, Nine West, Reebok, Sketchers, Van Heusen and more.
+ To save even more, shoppers can log onto www.premiumoutlets.com/vip to sign up for the VIP Shopper Club. There is no cost to join, and shoppers will receive additional exclusive savings and discounts.
+ Friday, Feb. 18: 10 a.m.-11 p.m.
+ Saturday, Feb. 19: 10 a.m.-11 p.m.
+ Sunday, Feb. 20: 10 a.m.-9 p.m.
+ Monday, Feb. 21: 10 a.m.-11 p.m.
+ 10 a.m.-9 p.m.
+ Friday, May 27: 10am-11 p.m.
+ Saturday, May 28: 10am-11 p.m.
+ Sunday, May 29: 10am-9 p.m.
+ Monday, May 30: 10am-11 p.m.
+ Thursday, June 30: 10 a.m.-11 p.m.
+ Friday, July 1: 10 a.m.-11 p.m.
+ Saturday, July 2: 10 a.m.-11 p.m.
+ Sunday, July 3: 10 a.m.-9 p.m.
+ Mon, July 4: 10 a.m.-11 p.m.
+ Friday, Sept. 2: 10 a.m.-11 p.m.
+ Saturday, Sept. 3: 10 a.m.-11 p.m.
+ Sunday, Sept. 4: 10 a.m.-9 p.m.
+ Monday, Sept. 5: 10 a.m.-11 p.m.

@@ -1,0 +1,38 @@
+how do we deallocate disk blocks held by the current process? 
+Or just update our list of which disk blocks are being used?
+	- do we do nothing? so long as our bookkeeping knows we aren't doing anything with those disk blocks anymore
+
+do we want to track which disk blocks are in use? I think yes. 
+But how? an array of bools?
+
+vm page vs vm address? like we want virtual pages but we also have 
+offsets...how is this going to work?
+
+currently have it so that delete_VM_Page only sets the base byte 
+of the physical page to nullptr...is that ok? --> sounds like the 
+idea of avoiding work
+
+**STILL NEED TO CLEAR OUT DISK**
+
+how do we keep track of which disk blocks to read from??
+
+are the ppages in the page table the pages on disk or in RAM?????
+
+I think we need some way to map a share id to its physical page or 
+relevant virtual pages
+
+need to assign a disk block as soon as we pull a physical page or 
+write a physical page or whatever
+
+get page from disk still has to deal with read/write faults and stuff
+
+check read/write protections in syslog
+
+instead of using upper_bound_of_arena, can also just use number of virtual pages to calculate upper bound
+
+
+When assigning a disk block to a page:
+1) check if block_allocation vector's size is less than total disk blocks. if yes, then push_back
+2) check if blocks_in_use is less than total disk blocks. If yes, then iterate through vector until you find a 0.
+use that disk block
+3) error

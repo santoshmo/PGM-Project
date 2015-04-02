@@ -1,0 +1,65 @@
+Pager started with 2 physical memory pages
+vm_create	(8384)
+vm_switch	(8384)
+					returning to (8384) with pages:
+vm_extend	(8384)	0
+vm_extend returned 0x60000000
+					returning to (8384) with pages:
+vm_extend	(8384)	0
+vm_extend returned 0x60001000
+					returning to (8384) with pages:
+vm_extend	(8384)	0
+vm_extend returned 0x60002000
+					returning to (8384) with pages:
+vm_fault	(8384)	0x60000000	read
+vm_fault returned 0
+					returning to (8384) with pages:
+					r	vpage 0x60000	ppage 0x1
+vm_fault	(8384)	0x60001000	write
+vm_fault returned 0
+					returning to (8384) with pages:
+					r	vpage 0x60000	ppage 0x1
+					rw	vpage 0x60001	ppage 0x0
+vm_fault	(8384)	0x60002000	write
+vm_fault returned 0
+					returning to (8384) with pages:
+					rw	vpage 0x60002	ppage 0x1
+vm_fault	(8384)	0x60001000	read
+vm_fault returned 0
+					returning to (8384) with pages:
+					rw	vpage 0x60001	ppage 0x0
+					rw	vpage 0x60002	ppage 0x1
+vm_fault	(8384)	0x60000000	read
+disk_write	block 0x3fe
+vm_fault returned 0
+					returning to (8384) with pages:
+					r	vpage 0x60000	ppage 0x0
+vm_fault	(8384)	0x60002000	write
+vm_fault returned 0
+					returning to (8384) with pages:
+					r	vpage 0x60000	ppage 0x0
+					rw	vpage 0x60002	ppage 0x1
+vm_fault	(8384)	0x60001000	write
+disk_write	block 0x3fd
+disk_read	block 0x3fe
+vm_fault returned 0
+					returning to (8384) with pages:
+					rw	vpage 0x60001	ppage 0x1
+vm_fault	(8384)	0x60000000	write
+vm_fault returned 0
+					returning to (8384) with pages:
+					rw	vpage 0x60000	ppage 0x0
+					rw	vpage 0x60001	ppage 0x1
+vm_fault	(8384)	0x60002000	read
+disk_write	block 0x3ff
+disk_read	block 0x3fd
+vm_fault returned 0
+					returning to (8384) with pages:
+					r	vpage 0x60002	ppage 0x0
+vm_fault	(8384)	0x60001000	read
+vm_fault returned 0
+					returning to (8384) with pages:
+					rw	vpage 0x60001	ppage 0x1
+					r	vpage 0x60002	ppage 0x0
+vm_destroy	(8384)
+Received signal 1, exiting (see manual page signal(3head) for more info)

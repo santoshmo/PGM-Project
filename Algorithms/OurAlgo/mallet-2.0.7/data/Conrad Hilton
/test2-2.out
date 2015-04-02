@@ -1,0 +1,75 @@
+vm_create	(40268)
+vm_switch	(40268)
+					returning to (40268) with pages:
+vm_create	(40269)
+					returning to (40268) with pages:
+vm_extend	(40268)	0
+vm_extend returned 0x60000000
+					returning to (40268) with pages:
+vm_fault	(40268)	0x60000fff	write
+vm_fault returned 0
+					returning to (40268) with pages:
+					rw	vpage 0x60000	ppage 0x0
+vm_extend	(40268)	1
+vm_extend returned 0x60001000
+					returning to (40268) with pages:
+					rw	vpage 0x60000	ppage 0x0
+vm_fault	(40268)	0x60001064	write
+vm_fault returned 0
+					returning to (40268) with pages:
+					rw	vpage 0x60000	ppage 0x0
+					rw	vpage 0x60001	ppage 0x1
+vm_switch	(40269)
+					returning to (40269) with pages:
+vm_extend	(40269)	0
+vm_extend returned 0x60000000
+					returning to (40269) with pages:
+vm_fault	(40269)	0x60000014	write
+disk_write	block 0x0
+vm_fault returned 0
+					returning to (40269) with pages:
+					rw	vpage 0x60000	ppage 0x0
+vm_extend	(40269)	1
+vm_extend returned 0x60001000
+					returning to (40269) with pages:
+					rw	vpage 0x60000	ppage 0x0
+vm_fault	(40269)	0x60001000	write
+vm_fault returned 0
+					returning to (40269) with pages:
+					rw	vpage 0x60000	ppage 0x0
+					rw	vpage 0x60001	ppage 0x1
+vm_syslog	(40269)	0x60000fff	2
+syslog			5
+vm_syslog returned 0
+					returning to (40269) with pages:
+					rw	vpage 0x60000	ppage 0x0
+					rw	vpage 0x60001	ppage 0x1
+vm_extend	(40269)	0
+vm_extend returned 0x60002000
+					returning to (40269) with pages:
+					rw	vpage 0x60000	ppage 0x0
+					rw	vpage 0x60001	ppage 0x1
+vm_fault	(40269)	0x60002050	write
+disk_write	block 0x1
+vm_fault returned 0
+					returning to (40269) with pages:
+					rw	vpage 0x60002	ppage 0x1
+vm_extend	(40269)	0
+vm_extend returned 0x60003000
+					returning to (40269) with pages:
+					rw	vpage 0x60002	ppage 0x1
+vm_fault	(40269)	0x6000300d	write
+disk_write	block 0x2
+vm_fault returned 0
+					returning to (40269) with pages:
+					rw	vpage 0x60002	ppage 0x1
+					rw	vpage 0x60003	ppage 0x0
+vm_destroy	(40269)
+vm_switch	(40268)
+					returning to (40268) with pages:
+vm_fault	(40268)	0x6000112c	write
+disk_read	block 0x1
+vm_fault returned 0
+					returning to (40268) with pages:
+					rw	vpage 0x60001	ppage 0x1
+vm_destroy	(40268)

@@ -1,0 +1,43 @@
+vm_create	(33743)
+vm_switch	(33743)
+					returning to (33743) with pages:
+vm_create	(33760)
+					returning to (33743) with pages:
+vm_extend	(33743)	0
+vm_extend returned 0x60000000
+					returning to (33743) with pages:
+vm_extend	(33743)	0
+vm_extend returned 0x60001000
+					returning to (33743) with pages:
+vm_switch	(33760)
+					returning to (33760) with pages:
+vm_extend	(33760)	0
+vm_extend returned 0x60000000
+					returning to (33760) with pages:
+vm_extend	(33760)	0
+vm_extend returned 0x60001000
+					returning to (33760) with pages:
+vm_switch	(33743)
+					returning to (33743) with pages:
+vm_fault	(33743)	0x60000000	write
+vm_fault returned 0
+					returning to (33743) with pages:
+					rw	vpage 0x60000	ppage 0x0
+vm_fault	(33743)	0x60001001	write
+vm_fault returned 0
+					returning to (33743) with pages:
+					rw	vpage 0x60000	ppage 0x0
+					rw	vpage 0x60001	ppage 0x1
+vm_destroy	(33743)
+vm_switch	(33760)
+					returning to (33760) with pages:
+-bash-4.1$ vm_fault	(33760)	0x60000000	write
+vm_fault returned 0
+					returning to (33760) with pages:
+					rw	vpage 0x60000	ppage 0x0
+vm_fault	(33760)	0x60001001	write
+vm_fault returned 0
+					returning to (33760) with pages:
+					rw	vpage 0x60000	ppage 0x0
+					rw	vpage 0x60001	ppage 0x1
+vm_destroy	(33760)

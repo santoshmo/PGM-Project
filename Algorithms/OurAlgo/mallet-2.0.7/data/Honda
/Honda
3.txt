@@ -1,0 +1,19 @@
+Register your Honda Financial Services account to access our convenient online account tools. Once registered, you can:
+              Register your Honda Financial Services account to access our convenient online account              tools. Once registered, you can:
+              When I try to log in, the system doesn't recognize me. Why not?
+              You may have mistyped your username (Honda ID), email address or password. If you try again              and are unsuccessful, click the "Forgot your username (Honda ID) or password?" link to reset              your password.
+              If you are using your email address to log in, please make sure that you are using              your "website email address" that you used to setup your account and not your "financial              services email address" that is used for receiving statements and correspondence.
+              Please note: If you have previously checked the box marked "Remember Me," you must              still enter your password to log in.
+              Do you recommend checking the "Remember Me" box on the log-in page?
+              When you check this box, your username (Honda ID) or email address is stored in a cookie on              your computer, and is filled in automatically each time you return to our website.              You must still enter your password to log in.
+              Please Note: We recommend this option if you are the only person who uses your computer.               To protect the privacy of your personal information, we do not recommend using this option               if you are accessing this site from a public or shared computer.
+              How often are updates posted to the online transaction history?
+              Our system is updated at the end of each business day and will appear on your history
+   			the following business day.
+              Why isn't the information updated instantly in your system?
+              The technology we use to transmit a day's worth of account updates as a single "batch"
+   			is more reliable and more secure than transmitting each update individually.
+              Why doesn't my online transaction history show my last payment?
+              It often takes several days to receive and process a payment. Once the payment is
+   		    reflected in our system, it will appear in your transaction history on the next business day.
+   		    This will not be the case if you are viewing your online current statement.
