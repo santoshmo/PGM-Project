@@ -15,6 +15,11 @@ wordnet_lemmatizer = WordNetLemmatizer()
 def prep_tokenize(txt_file):
     toker = RegexpTokenizer(r'((?<=[^\w\s])\w(?=[^\w\s])|(\W))+', gaps=True)
     word_list = toker.tokenize(txt_file)
+    #Get rid of all the numbers
+    for my_word in word_list:
+        if my_word.isdigit() or len(my_word) == 1:
+            word_list.remove(my_word)
+    print word_list
     return word_list
 
 def tag_words(word_list):

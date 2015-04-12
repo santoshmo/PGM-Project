@@ -4,6 +4,9 @@ from doc_generality import *
 import glob
 import os
 
+
+
+
 def f_rank(score):
     sorted_score = sorted(score)
     size = len(score)
@@ -31,6 +34,7 @@ print rank
 output_name = 'rank_'+ input_list[0][0]+'.txt'
 output_file = open(output_name,'w')
 i = 0
-for j in xrange(0,5):
+num_file = len(input_list)
+for j in xrange(0,num_file):
         output_file.write(input_list[j]+": %s \n" % rank[i])
         i = i + 1
